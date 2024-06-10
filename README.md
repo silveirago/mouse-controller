@@ -6,6 +6,9 @@ by Gustavo Silveira - a.k.a. the Nerd Musician
 
 To learn more go to [Nerd Musician Pro](https://go.musiconerd.com/nerd-musician-pro)
 
+## Watch the YouTube Video
+[LINK](https://youtu.be/CXDNysPhbkM?si=wig2lB7LEvD_Mtty)
+
 ## Introduction
 
 This project demonstrates how to control your computer's mouse cursor using an Arduino Pro Micro. It utilizes an encoder for directional input and a button to switch between X and Y-axis control.
